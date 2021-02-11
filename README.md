@@ -1,3 +1,5 @@
+Repositório para testes com conhecimento em React, Styled-Components e Next.Js.
+
 # AluraQuiz Base
 
 Seja bem vindo ao projeto base do AluraQuiz!
